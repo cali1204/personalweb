@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe89f33e.css",
-    "main.js": "/static/js/main.c87e34a4.js",
-    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff": "/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo_sub.png": "/static/media/logo_sub.0cd1f234422b478c2379.png",
-    "static/media/logo-s.png": "/static/media/logo-s.bfc9f81846bda5218dab.png",
-    "static/media/CoolveticaRg-Regular.woff": "/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/index.html",
-    "main.fe89f33e.css.map": "/static/css/main.fe89f33e.css.map",
-    "main.c87e34a4.js.map": "/static/js/main.c87e34a4.js.map",
-    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/personalweb/static/css/main.6b7c3509.css",
+    "main.js": "/personalweb/static/js/main.ab3e4cd8.js",
+    "static/js/787.a2cb61a6.chunk.js": "/personalweb/static/js/787.a2cb61a6.chunk.js",
+    "static/media/helvetica-neu.ttf": "/personalweb/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/personalweb/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/personalweb/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo_sub.png": "/personalweb/static/media/logo_sub.0cd1f234422b478c2379.png",
+    "static/media/logo-s.png": "/personalweb/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff": "/personalweb/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/personalweb/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/personalweb/index.html",
+    "main.6b7c3509.css.map": "/personalweb/static/css/main.6b7c3509.css.map",
+    "main.ab3e4cd8.js.map": "/personalweb/static/js/main.ab3e4cd8.js.map",
+    "787.a2cb61a6.chunk.js.map": "/personalweb/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe89f33e.css",
-    "static/js/main.c87e34a4.js"
+    "static/css/main.6b7c3509.css",
+    "static/js/main.ab3e4cd8.js"
   ]
 }
